@@ -6,6 +6,6 @@ This program can define sex by height and weight
 
 Для запуска понадобятся библиотеки: PyQt5 и Numpy
 
-Установить их можно, вписав в командную сроку:
+Установить их можно, вписав в командную строку:
 pip install pyqt5
 pip install numpy
